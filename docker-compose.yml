@@ -1,0 +1,26 @@
+services:
+
+  postgres:
+    image: postgres:16
+    container_name: female_health_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: dwuser
+      POSTGRES_PASSWORD: dwpass
+      POSTGRES_DB: female_health_dw
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  metabase:
+    image: metabase/metabase:latest
+    container_name: female_health_metabase
+    restart: always
+    ports:
+      - "3000:3000"
+    depends_on:
+      - postgres
+
+volumes:
+  pgdata:

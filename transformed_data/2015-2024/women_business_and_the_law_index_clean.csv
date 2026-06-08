@@ -1,0 +1,1901 @@
+country,country_code,region,income_group,year,WBL INDEX,can_choose_residence,can_travel_domestic,can_apply_passport,can_travel_abroad,get_job,no_gender_discrimination_employment,sexual_harassment_legislation,sexual_harassment_penalties,no_gender_discrimination_credit,can_sign_contract,can_register_business,can_open_bank_account
+Afghanistan,AFG,South Asia,Low income,2015,28.8,0,0,0,1,1,0,0,0,0,1,1,1
+Afghanistan,AFG,South Asia,Low income,2016,28.8,0,0,0,1,1,0,0,0,0,1,1,1
+Afghanistan,AFG,South Asia,Low income,2017,38.1,0,0,1,1,1,0,1,1,0,1,1,1
+Afghanistan,AFG,South Asia,Low income,2018,38.1,0,0,1,1,1,0,1,1,0,1,1,1
+Afghanistan,AFG,South Asia,Low income,2019,38.1,0,0,1,1,1,0,1,1,0,1,1,1
+Afghanistan,AFG,South Asia,Low income,2020,38.1,0,0,1,1,1,0,1,1,0,1,1,1
+Afghanistan,AFG,South Asia,Low income,2021,38.1,0,0,1,1,1,0,1,1,0,1,1,1
+Afghanistan,AFG,South Asia,Low income,2022,38.1,0,0,1,1,1,0,1,1,0,1,1,1
+Afghanistan,AFG,South Asia,Low income,2023,31.9,0,0,1,0,0,0,1,1,0,1,1,1
+Afghanistan,AFG,South Asia,Low income,2024,31.9,0,0,1,0,0,0,1,1,0,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2015,85.6,1,1,1,1,1,1,1,1,1,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2016,85.6,1,1,1,1,1,1,1,1,1,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2017,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2018,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2019,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2020,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2021,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2022,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2023,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Albania,ALB,Europe & Central Asia,Upper middle income,2024,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2015,55.0,1,1,0,1,1,0,1,1,0,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2016,55.0,1,1,0,1,1,0,1,1,0,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2017,57.5,1,1,0,1,1,0,1,1,0,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2018,57.5,1,1,0,1,1,0,1,1,0,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2019,57.5,1,1,0,1,1,0,1,1,0,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2020,57.5,1,1,0,1,1,0,1,1,0,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2021,57.5,1,1,0,1,1,0,1,1,0,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2022,57.5,1,1,0,1,1,0,1,1,0,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2023,57.5,1,1,0,1,1,0,1,1,0,1,1,1
+Algeria,DZA,Middle East & North Africa,Lower middle income,2024,57.5,1,1,0,1,1,0,1,1,0,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2015,70.6,1,1,1,1,1,1,0,0,1,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2016,70.6,1,1,1,1,1,1,0,0,1,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2017,73.1,1,1,1,1,1,1,0,0,1,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2018,73.1,1,1,1,1,1,1,0,0,1,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2019,73.1,1,1,1,1,1,1,0,0,1,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2020,73.1,1,1,1,1,1,1,0,0,1,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2021,73.1,1,1,1,1,1,1,0,0,1,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2022,79.4,1,1,1,1,1,1,1,1,1,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2023,79.4,1,1,1,1,1,1,1,1,1,1,1,1
+Angola,AGO,Sub-Saharan Africa,Lower middle income,2024,79.4,1,1,1,1,1,1,1,1,1,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2015,66.3,0,1,1,1,1,1,0,0,0,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2016,66.3,0,1,1,1,1,1,0,0,0,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2017,66.3,0,1,1,1,1,1,0,0,0,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2018,66.3,0,1,1,1,1,1,0,0,0,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2019,66.3,0,1,1,1,1,1,0,0,0,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2020,66.3,0,1,1,1,1,1,0,0,0,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2021,66.3,0,1,1,1,1,1,0,0,0,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2022,66.3,0,1,1,1,1,1,0,0,0,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2023,68.8,0,1,1,1,1,1,0,0,0,1,1,1
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,2024,68.8,0,1,1,1,1,1,0,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2015,73.1,1,1,1,1,1,1,1,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2016,73.1,1,1,1,1,1,1,1,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2017,73.1,1,1,1,1,1,1,1,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2018,73.1,1,1,1,1,1,1,1,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2019,76.3,1,1,1,1,1,1,1,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2020,76.3,1,1,1,1,1,1,1,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2021,76.3,1,1,1,1,1,1,1,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2022,79.4,1,1,1,1,1,1,1,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2023,79.4,1,1,1,1,1,1,1,0,0,1,1,1
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2024,79.4,1,1,1,1,1,1,1,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2015,82.5,1,1,1,1,1,1,0,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2016,82.5,1,1,1,1,1,1,0,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2017,82.5,1,1,1,1,1,1,0,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2018,82.5,1,1,1,1,1,1,0,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2019,85.0,1,1,1,1,1,1,0,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2020,85.0,1,1,1,1,1,1,0,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2021,85.0,1,1,1,1,1,1,0,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2022,87.5,1,1,1,1,1,1,0,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2023,87.5,1,1,1,1,1,1,0,0,0,1,1,1
+Armenia,ARM,Europe & Central Asia,Upper middle income,2024,90.6,1,1,1,1,1,1,1,0,0,1,1,1
+Australia,AUS,High income: OECD,High income,2015,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Australia,AUS,High income: OECD,High income,2016,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Australia,AUS,High income: OECD,High income,2017,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Australia,AUS,High income: OECD,High income,2018,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Australia,AUS,High income: OECD,High income,2019,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Australia,AUS,High income: OECD,High income,2020,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Australia,AUS,High income: OECD,High income,2021,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Australia,AUS,High income: OECD,High income,2022,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Australia,AUS,High income: OECD,High income,2023,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Australia,AUS,High income: OECD,High income,2024,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2015,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2016,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2017,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2018,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2019,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2020,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2021,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2022,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2023,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Austria,AUT,High income: OECD,High income,2024,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2015,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2016,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2017,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2018,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2019,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2020,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2021,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2022,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2023,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,2024,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2015,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2016,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2017,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2018,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2019,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2020,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2021,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2022,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2023,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Bahamas, The",BHS,Latin America & Caribbean,High income,2024,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2015,35.0,0,0,1,1,0,1,0,0,0,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2016,35.0,0,0,1,1,0,1,0,0,0,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2017,37.5,0,0,1,1,0,1,0,0,0,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2018,37.5,0,0,1,1,0,1,0,0,0,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2019,40.0,0,0,1,1,0,1,0,0,0,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2020,46.3,0,0,1,1,0,1,1,1,0,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2021,55.6,0,0,1,1,0,1,1,1,1,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2022,65.0,0,0,1,1,0,1,1,1,1,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2023,68.1,0,0,1,1,0,1,1,1,1,1,1,1
+Bahrain,BHR,Middle East & North Africa,High income,2024,68.1,0,0,1,1,0,1,1,1,1,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2015,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2016,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2017,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2018,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2019,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2020,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2021,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2022,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2023,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Bangladesh,BGD,South Asia,Lower middle income,2024,49.4,1,1,1,1,1,0,1,0,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2015,70.6,1,1,0,1,1,0,0,0,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2016,70.6,1,1,0,1,1,0,0,0,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2017,70.6,1,1,0,1,1,0,0,0,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2018,70.6,1,1,0,1,1,0,0,0,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2019,76.9,1,1,0,1,1,0,1,1,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2020,76.9,1,1,0,1,1,0,1,1,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2021,80.0,1,1,0,1,1,1,1,1,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2022,80.0,1,1,0,1,1,1,1,1,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2023,80.0,1,1,0,1,1,1,1,1,0,1,1,1
+Barbados,BRB,Latin America & Caribbean,High income,2024,80.0,1,1,0,1,1,1,1,1,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2015,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2016,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2017,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2018,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2019,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2020,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2021,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2022,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2023,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belarus,BLR,Europe & Central Asia,Upper middle income,2024,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Belgium,BEL,High income: OECD,High income,2015,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belgium,BEL,High income: OECD,High income,2016,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belgium,BEL,High income: OECD,High income,2017,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belgium,BEL,High income: OECD,High income,2018,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belgium,BEL,High income: OECD,High income,2019,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belgium,BEL,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belgium,BEL,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belgium,BEL,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belgium,BEL,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belgium,BEL,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2015,79.4,1,1,0,1,1,0,1,1,0,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2016,79.4,1,1,0,1,1,0,1,1,0,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2017,79.4,1,1,0,1,1,0,1,1,0,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2018,79.4,1,1,0,1,1,0,1,1,0,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2019,79.4,1,1,0,1,1,0,1,1,0,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2020,79.4,1,1,0,1,1,0,1,1,0,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2021,79.4,1,1,0,1,1,0,1,1,0,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2022,79.4,1,1,0,1,1,0,1,1,0,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2023,79.4,1,1,0,1,1,0,1,1,0,1,1,1
+Belize,BLZ,Latin America & Caribbean,Upper middle income,2024,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2015,74.4,0,1,0,1,1,1,1,1,0,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2016,74.4,0,1,0,1,1,1,1,1,0,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2017,74.4,0,1,0,1,1,1,1,1,0,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2018,74.4,0,1,0,1,1,1,1,1,0,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2019,74.4,0,1,0,1,1,1,1,1,0,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2020,74.4,0,1,0,1,1,1,1,1,0,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2021,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2022,80.6,0,1,1,1,1,1,1,1,0,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2023,83.8,0,1,1,1,1,1,1,1,1,1,1,1
+Benin,BEN,Sub-Saharan Africa,Lower middle income,2024,83.8,0,1,1,1,1,1,1,1,1,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2015,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2016,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2017,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2018,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2019,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2020,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2021,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2022,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2023,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bhutan,BTN,South Asia,Lower middle income,2024,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2015,76.9,1,1,1,1,0,0,1,1,1,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2016,88.8,1,1,1,1,1,0,1,1,1,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2017,88.8,1,1,1,1,1,0,1,1,1,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2018,88.8,1,1,1,1,1,0,1,1,1,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2019,88.8,1,1,1,1,1,0,1,1,1,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2020,88.8,1,1,1,1,1,0,1,1,1,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2021,88.8,1,1,1,1,1,0,1,1,1,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2022,88.8,1,1,1,1,1,0,1,1,1,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2023,88.8,1,1,1,1,1,0,1,1,1,1,1,1
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2024,88.8,1,1,1,1,1,0,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2015,81.9,1,1,1,1,1,1,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2016,81.9,1,1,1,1,1,1,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2017,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2018,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2019,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2020,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2021,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2022,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2023,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,2024,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2015,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2016,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2017,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2018,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2019,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2020,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2021,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2022,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2023,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,2024,63.8,1,1,0,1,1,0,0,0,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2015,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2016,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2017,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2018,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2019,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2020,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2021,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2022,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2023,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2024,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2015,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2016,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2017,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2018,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2019,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2020,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2021,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2022,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2023,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Brunei Darussalam,BRN,East Asia & Pacific,High income,2024,53.1,0,0,1,1,1,0,0,0,0,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2015,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2016,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2017,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2018,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2019,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2020,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2021,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2022,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2023,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,2024,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2015,76.9,0,1,1,1,1,1,1,1,0,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2016,76.9,0,1,1,1,1,1,1,1,0,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2017,76.9,0,1,1,1,1,1,1,1,0,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2018,76.9,0,1,1,1,1,1,1,1,0,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2019,82.5,0,1,1,1,1,1,1,1,1,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2020,82.5,0,1,1,1,1,1,1,1,1,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2021,82.5,0,1,1,1,1,1,1,1,1,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2022,82.5,0,1,1,1,1,1,1,1,1,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2023,82.5,0,1,1,1,1,1,1,1,1,1,1,1
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2024,82.5,0,1,1,1,1,1,1,1,1,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2015,73.1,1,1,1,1,1,1,1,1,0,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2016,73.1,1,1,1,1,1,1,1,1,0,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2017,73.1,1,1,1,1,1,1,1,1,0,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2018,73.1,1,1,1,1,1,1,1,1,0,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2019,73.1,1,1,1,1,1,1,1,1,0,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2020,73.1,1,1,1,1,1,1,1,1,0,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2021,73.1,1,1,1,1,1,1,1,1,0,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2022,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2023,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Burundi,BDI,Sub-Saharan Africa,Low income,2024,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2015,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2016,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2017,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2018,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2019,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2020,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2021,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2022,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2023,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,2024,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2015,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2016,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2017,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2018,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2019,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2020,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2021,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2022,81.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2023,81.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2024,81.3,1,1,1,1,1,1,1,1,1,1,1,1
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2015,50.6,0,1,0,1,0,0,0,0,0,1,1,0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2016,50.6,0,1,0,1,0,0,0,0,0,1,1,0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2017,50.6,0,1,0,1,0,0,0,0,0,1,1,0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2018,60.0,0,1,0,1,0,1,1,1,0,1,1,0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2019,60.0,0,1,0,1,0,1,1,1,0,1,1,0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2020,60.0,0,1,0,1,0,1,1,1,0,1,1,0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2021,60.0,0,1,0,1,0,1,1,1,0,1,1,0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2022,60.0,0,1,0,1,0,1,1,1,0,1,1,0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2023,60.0,0,1,0,1,0,1,1,1,0,1,1,0
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2024,60.0,0,1,0,1,0,1,1,1,0,1,1,0
+Canada,CAN,High income: OECD,High income,2015,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Canada,CAN,High income: OECD,High income,2016,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Canada,CAN,High income: OECD,High income,2017,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Canada,CAN,High income: OECD,High income,2018,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Canada,CAN,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Canada,CAN,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Canada,CAN,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Canada,CAN,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Canada,CAN,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Canada,CAN,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2015,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2016,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2017,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2018,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2019,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2020,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2021,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2022,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2023,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Central African Republic,CAF,Sub-Saharan Africa,Low income,2024,77.5,0,1,1,1,1,1,1,1,0,1,1,1
+Chad,TCD,Sub-Saharan Africa,Low income,2015,57.5,0,1,1,1,0,1,0,0,0,1,1,0
+Chad,TCD,Sub-Saharan Africa,Low income,2016,57.5,0,1,1,1,0,1,0,0,0,1,1,0
+Chad,TCD,Sub-Saharan Africa,Low income,2017,57.5,0,1,1,1,0,1,0,0,0,1,1,0
+Chad,TCD,Sub-Saharan Africa,Low income,2018,66.3,0,1,1,1,0,1,1,1,0,1,1,0
+Chad,TCD,Sub-Saharan Africa,Low income,2019,66.3,0,1,1,1,0,1,1,1,0,1,1,0
+Chad,TCD,Sub-Saharan Africa,Low income,2020,66.3,0,1,1,1,0,1,1,1,0,1,1,0
+Chad,TCD,Sub-Saharan Africa,Low income,2021,66.3,0,1,1,1,0,1,1,1,0,1,1,0
+Chad,TCD,Sub-Saharan Africa,Low income,2022,66.3,0,1,1,1,0,1,1,1,0,1,1,0
+Chad,TCD,Sub-Saharan Africa,Low income,2023,66.3,0,1,1,1,0,1,1,1,0,1,1,0
+Chad,TCD,Sub-Saharan Africa,Low income,2024,66.3,0,1,1,1,0,1,1,1,0,1,1,0
+Chile,CHL,High income: OECD,High income,2015,77.5,1,1,1,1,1,1,1,0,0,1,1,1
+Chile,CHL,High income: OECD,High income,2016,77.5,1,1,1,1,1,1,1,0,0,1,1,1
+Chile,CHL,High income: OECD,High income,2017,77.5,1,1,1,1,1,1,1,0,0,1,1,1
+Chile,CHL,High income: OECD,High income,2018,77.5,1,1,1,1,1,1,1,0,0,1,1,1
+Chile,CHL,High income: OECD,High income,2019,77.5,1,1,1,1,1,1,1,0,0,1,1,1
+Chile,CHL,High income: OECD,High income,2020,77.5,1,1,1,1,1,1,1,0,0,1,1,1
+Chile,CHL,High income: OECD,High income,2021,80.0,1,1,1,1,1,1,1,0,0,1,1,1
+Chile,CHL,High income: OECD,High income,2022,80.0,1,1,1,1,1,1,1,0,0,1,1,1
+Chile,CHL,High income: OECD,High income,2023,80.0,1,1,1,1,1,1,1,0,0,1,1,1
+Chile,CHL,High income: OECD,High income,2024,80.0,1,1,1,1,1,1,1,0,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2015,75.6,1,1,1,1,1,1,1,1,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2016,75.6,1,1,1,1,1,1,1,1,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2017,75.6,1,1,1,1,1,1,1,1,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2018,75.6,1,1,1,1,1,1,1,1,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2019,75.6,1,1,1,1,1,1,1,1,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2020,75.6,1,1,1,1,1,1,1,1,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2021,75.6,1,1,1,1,1,1,1,1,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2022,75.6,1,1,1,1,1,1,1,1,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2023,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+China,CHN,East Asia & Pacific,Upper middle income,2024,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2015,78.8,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2016,78.8,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2017,78.8,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2018,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2019,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2020,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2021,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2022,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2023,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Colombia,COL,Latin America & Caribbean,Upper middle income,2024,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2015,56.3,0,1,1,1,0,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2016,65.0,0,1,1,1,0,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2017,65.0,0,1,1,1,0,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2018,65.0,0,1,1,1,0,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2019,65.0,0,1,1,1,0,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2020,65.0,0,1,1,1,0,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2021,65.0,0,1,1,1,0,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2022,65.0,0,1,1,1,0,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2023,65.0,0,1,1,1,0,1,1,1,0,1,1,1
+Comoros,COM,Sub-Saharan Africa,Lower middle income,2024,65.0,0,1,1,1,0,1,1,1,0,1,1,1
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2015,42.5,0,1,1,1,0,0,1,1,0,0,0,0
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2016,42.5,0,1,1,1,0,0,1,1,0,0,0,0
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2017,48.8,0,1,1,1,0,1,1,1,1,0,0,0
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2018,70.0,1,1,1,1,1,1,1,1,1,1,1,1
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2019,70.0,1,1,1,1,1,1,1,1,1,1,1,1
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2020,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2021,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2022,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2023,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,2024,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2015,49.4,0,1,0,1,1,0,0,0,0,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2016,49.4,0,1,0,1,1,0,0,0,0,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2017,49.4,0,1,0,1,1,0,0,0,0,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2018,49.4,0,1,0,1,1,0,0,0,0,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2019,49.4,0,1,0,1,1,0,0,0,0,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2020,49.4,0,1,0,1,1,0,0,0,0,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2021,49.4,0,1,0,1,1,0,0,0,0,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2022,49.4,0,1,0,1,1,0,0,0,0,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2023,58.1,0,1,0,1,1,0,1,1,0,1,1,1
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,2024,58.1,0,1,0,1,1,0,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2015,80.0,1,1,1,1,1,1,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2016,80.0,1,1,1,1,1,1,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2017,80.0,1,1,1,1,1,1,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2018,80.0,1,1,1,1,1,1,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2019,80.0,1,1,1,1,1,1,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2020,83.1,1,1,1,1,1,1,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2021,86.3,1,1,1,1,1,1,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2022,86.3,1,1,1,1,1,1,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2023,91.9,1,1,1,1,1,1,1,1,0,1,1,1
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,2024,91.9,1,1,1,1,1,1,1,1,0,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2015,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2016,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2017,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2018,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2019,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2020,83.1,1,1,1,1,1,1,1,1,0,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2021,83.1,1,1,1,1,1,1,1,1,0,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2022,83.1,1,1,1,1,1,1,1,1,0,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2023,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,2024,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2015,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2016,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2017,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2018,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2019,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2020,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2021,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2022,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2023,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Croatia,HRV,Europe & Central Asia,High income,2024,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2015,88.8,1,1,0,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2016,88.8,1,1,0,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2017,88.8,1,1,0,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2018,88.8,1,1,0,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2019,91.3,1,1,0,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2020,91.3,1,1,0,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2021,91.3,1,1,0,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2022,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2023,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Cyprus,CYP,Europe & Central Asia,High income,2024,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2015,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2016,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2017,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2018,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2019,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2020,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2021,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2022,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2023,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Czechia,CZE,High income: OECD,High income,2024,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2015,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2016,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2017,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2018,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2019,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Denmark,DNK,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2015,62.5,1,1,1,1,1,1,0,0,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2016,62.5,1,1,1,1,1,1,0,0,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2017,62.5,1,1,1,1,1,1,0,0,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2018,62.5,1,1,1,1,1,1,0,0,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2019,65.0,1,1,1,1,1,1,0,0,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2020,71.3,1,1,1,1,1,1,1,1,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2021,71.3,1,1,1,1,1,1,1,1,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2022,71.3,1,1,1,1,1,1,1,1,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2023,71.3,1,1,1,1,1,1,1,1,1,1,1,1
+Djibouti,DJI,Middle East & North Africa,Lower middle income,2024,71.3,1,1,1,1,1,1,1,1,1,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2015,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2016,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2017,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2018,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2019,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2020,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2021,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2022,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2023,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominica,DMA,Latin America & Caribbean,Upper middle income,2024,62.5,1,1,0,1,1,0,0,0,0,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2015,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2016,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2017,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2018,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2019,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2020,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2021,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2022,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2023,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,2024,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2015,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2016,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2017,89.4,1,1,1,1,1,1,1,1,0,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2018,89.4,1,1,1,1,1,1,1,1,0,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2019,89.4,1,1,1,1,1,1,1,1,0,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2020,89.4,1,1,1,1,1,1,1,1,0,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2021,89.4,1,1,1,1,1,1,1,1,0,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2022,89.4,1,1,1,1,1,1,1,1,0,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2023,89.4,1,1,1,1,1,1,1,1,0,1,1,1
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,2024,89.4,1,1,1,1,1,1,1,1,0,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2015,38.8,1,0,0,1,0,1,0,0,0,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2016,45.0,1,0,0,1,0,1,1,1,0,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2017,45.0,1,0,0,1,0,1,1,1,0,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2018,45.0,1,0,0,1,0,1,1,1,0,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2019,45.0,1,0,0,1,0,1,1,1,0,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2020,45.0,1,0,0,1,0,1,1,1,0,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2021,45.0,1,0,0,1,0,1,1,1,0,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2022,50.6,1,0,0,1,0,1,1,1,1,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2023,50.6,1,0,0,1,0,1,1,1,1,1,1,1
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,2024,50.6,1,0,0,1,0,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2015,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2016,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2017,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2018,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2019,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2020,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2021,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2022,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2023,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,2024,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2015,51.9,0,1,1,1,0,1,0,0,0,0,0,0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2016,51.9,0,1,1,1,0,1,0,0,0,0,0,0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2017,51.9,0,1,1,1,0,1,0,0,0,0,0,0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2018,51.9,0,1,1,1,0,1,0,0,0,0,0,0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2019,51.9,0,1,1,1,0,1,0,0,0,0,0,0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2020,51.9,0,1,1,1,0,1,0,0,0,0,0,0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2021,51.9,0,1,1,1,0,1,0,0,0,0,0,0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2022,51.9,0,1,1,1,0,1,0,0,0,0,0,0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2023,51.9,0,1,1,1,0,1,0,0,0,0,0,0
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,2024,58.1,0,1,1,1,0,1,1,1,0,0,0,0
+Eritrea,ERI,Sub-Saharan Africa,Low income,2015,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Eritrea,ERI,Sub-Saharan Africa,Low income,2016,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Eritrea,ERI,Sub-Saharan Africa,Low income,2017,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Eritrea,ERI,Sub-Saharan Africa,Low income,2018,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Eritrea,ERI,Sub-Saharan Africa,Low income,2019,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Eritrea,ERI,Sub-Saharan Africa,Low income,2020,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Eritrea,ERI,Sub-Saharan Africa,Low income,2021,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Eritrea,ERI,Sub-Saharan Africa,Low income,2022,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Eritrea,ERI,Sub-Saharan Africa,Low income,2023,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Eritrea,ERI,Sub-Saharan Africa,Low income,2024,69.4,1,1,1,1,1,1,1,1,0,1,1,1
+Estonia,EST,High income: OECD,High income,2015,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Estonia,EST,High income: OECD,High income,2016,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Estonia,EST,High income: OECD,High income,2017,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Estonia,EST,High income: OECD,High income,2018,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Estonia,EST,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Estonia,EST,High income: OECD,High income,2020,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Estonia,EST,High income: OECD,High income,2021,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Estonia,EST,High income: OECD,High income,2022,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Estonia,EST,High income: OECD,High income,2023,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Estonia,EST,High income: OECD,High income,2024,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2015,43.8,1,1,1,1,0,1,0,0,0,0,0,0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2016,43.8,1,1,1,1,0,1,0,0,0,0,0,0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2017,43.8,1,1,1,1,0,1,0,0,0,0,0,0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2018,43.8,1,1,1,1,0,1,0,0,0,0,0,0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2019,43.8,1,1,1,1,0,1,0,0,0,0,0,0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2020,46.3,1,1,1,1,0,1,0,0,0,0,0,0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2021,46.3,1,1,1,1,0,1,0,0,0,0,0,0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2022,46.3,1,1,1,1,0,1,0,0,0,0,0,0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2023,46.3,1,1,1,1,0,1,0,0,0,0,0,0
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,2024,46.3,1,1,1,1,0,1,0,0,0,0,0,0
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2015,71.9,1,1,1,1,1,1,1,1,0,1,1,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2016,71.9,1,1,1,1,1,1,1,1,0,1,1,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2017,71.9,1,1,1,1,1,1,1,1,0,1,1,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2018,71.9,1,1,1,1,1,1,1,1,0,1,1,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2019,71.9,1,1,1,1,1,1,1,1,0,1,1,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2020,71.9,1,1,1,1,1,1,1,1,0,1,1,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2021,80.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2022,80.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2023,80.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2024,80.0,1,1,1,1,1,1,1,1,1,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2015,74.4,1,1,0,1,1,1,1,1,0,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2016,74.4,1,1,0,1,1,1,1,1,0,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2017,74.4,1,1,0,1,1,1,1,1,0,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2018,74.4,1,1,0,1,1,1,1,1,0,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2019,74.4,1,1,0,1,1,1,1,1,0,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2020,79.4,1,1,0,1,1,1,1,1,0,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2021,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2022,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2023,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Fiji,FJI,East Asia & Pacific,Upper middle income,2024,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Finland,FIN,High income: OECD,High income,2015,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Finland,FIN,High income: OECD,High income,2016,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Finland,FIN,High income: OECD,High income,2017,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Finland,FIN,High income: OECD,High income,2018,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Finland,FIN,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Finland,FIN,High income: OECD,High income,2020,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Finland,FIN,High income: OECD,High income,2021,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Finland,FIN,High income: OECD,High income,2022,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Finland,FIN,High income: OECD,High income,2023,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Finland,FIN,High income: OECD,High income,2024,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2015,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2016,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2017,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2018,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2019,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+France,FRA,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2015,51.3,0,1,0,1,0,1,0,0,0,1,1,0
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2016,51.3,0,1,0,1,0,1,0,0,0,1,1,0
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2017,51.3,0,1,0,1,0,1,0,0,0,1,1,0
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2018,57.5,0,1,0,1,0,1,1,1,0,1,1,0
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2019,57.5,0,1,0,1,0,1,1,1,0,1,1,0
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2020,57.5,0,1,0,1,0,1,1,1,0,1,1,0
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2021,57.5,0,1,0,1,0,1,1,1,0,1,1,0
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2022,82.5,1,1,0,1,1,1,1,1,1,1,1,1
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2023,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,2024,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2015,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2016,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2017,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2018,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2019,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2020,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2021,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2022,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2023,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,2024,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2015,79.4,1,1,1,1,1,1,1,0,0,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2016,79.4,1,1,1,1,1,1,1,0,0,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2017,79.4,1,1,1,1,1,1,1,0,0,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2018,79.4,1,1,1,1,1,1,1,0,0,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2019,79.4,1,1,1,1,1,1,1,0,0,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2020,85.6,1,1,1,1,1,1,1,1,1,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2021,85.6,1,1,1,1,1,1,1,1,1,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2022,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2023,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+Georgia,GEO,Europe & Central Asia,Upper middle income,2024,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2015,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2016,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2017,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2018,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2019,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Germany,DEU,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2015,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2016,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2017,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2018,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2019,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2020,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2021,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2022,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2023,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2024,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Greece,GRC,High income: OECD,High income,2015,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Greece,GRC,High income: OECD,High income,2016,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Greece,GRC,High income: OECD,High income,2017,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Greece,GRC,High income: OECD,High income,2018,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Greece,GRC,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Greece,GRC,High income: OECD,High income,2020,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Greece,GRC,High income: OECD,High income,2021,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Greece,GRC,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Greece,GRC,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Greece,GRC,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2015,77.5,1,1,0,1,1,1,0,0,0,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2016,77.5,1,1,0,1,1,1,0,0,0,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2017,77.5,1,1,0,1,1,1,0,0,0,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2018,77.5,1,1,0,1,1,1,0,0,0,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2019,77.5,1,1,0,1,1,1,0,0,0,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2020,80.6,1,1,1,1,1,1,0,0,0,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2021,80.6,1,1,1,1,1,1,0,0,0,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2022,80.6,1,1,1,1,1,1,0,0,0,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2023,80.6,1,1,1,1,1,1,0,0,0,1,1,1
+Grenada,GRD,Latin America & Caribbean,Upper middle income,2024,80.6,1,1,1,1,1,1,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2015,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2016,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2017,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2018,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2019,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2020,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2021,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2022,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2023,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2024,73.8,1,1,1,1,1,0,0,0,0,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2015,59.4,0,1,1,1,0,1,1,1,0,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2016,59.4,0,1,1,1,0,1,1,1,0,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2017,59.4,0,1,1,1,0,1,1,1,0,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2018,62.5,0,1,1,1,0,1,1,1,1,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2019,62.5,0,1,1,1,0,1,1,1,1,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2020,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2021,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2022,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2023,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,2024,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2015,40.0,0,1,1,1,0,1,0,0,0,1,0,0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2016,40.0,0,1,1,1,0,1,0,0,0,1,0,0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2017,40.0,0,1,1,1,0,1,0,0,0,1,0,0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2018,40.0,0,1,1,1,0,1,0,0,0,1,0,0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2019,40.0,0,1,1,1,0,1,0,0,0,1,0,0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2020,40.0,0,1,1,1,0,1,0,0,0,1,0,0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2021,40.0,0,1,1,1,0,1,0,0,0,1,0,0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2022,40.0,0,1,1,1,0,1,0,0,0,1,0,0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2023,51.9,0,1,1,1,0,1,0,0,0,1,0,0
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,2024,51.9,0,1,1,1,0,1,0,0,0,1,0,0
+Guyana,GUY,Latin America & Caribbean,High income,2015,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Guyana,GUY,Latin America & Caribbean,High income,2016,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Guyana,GUY,Latin America & Caribbean,High income,2017,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Guyana,GUY,Latin America & Caribbean,High income,2018,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Guyana,GUY,Latin America & Caribbean,High income,2019,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Guyana,GUY,Latin America & Caribbean,High income,2020,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Guyana,GUY,Latin America & Caribbean,High income,2021,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Guyana,GUY,Latin America & Caribbean,High income,2022,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Guyana,GUY,Latin America & Caribbean,High income,2023,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Guyana,GUY,Latin America & Caribbean,High income,2024,86.9,1,1,0,1,1,1,1,1,1,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2015,58.8,0,1,0,1,1,1,0,0,0,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2016,58.8,0,1,0,1,1,1,0,0,0,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2017,58.8,0,1,0,1,1,1,0,0,0,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2018,61.3,0,1,0,1,1,1,0,0,0,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2019,61.3,0,1,0,1,1,1,0,0,0,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2020,61.3,0,1,0,1,1,1,0,0,0,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2021,61.3,0,1,0,1,1,1,0,0,0,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2022,61.3,0,1,0,1,1,1,0,0,0,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2023,61.3,0,1,0,1,1,1,0,0,0,1,1,1
+Haiti,HTI,Latin America & Caribbean,Lower middle income,2024,61.3,0,1,0,1,1,1,0,0,0,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2015,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2016,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2017,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2018,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2019,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2020,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2021,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2022,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2023,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+Honduras,HND,Latin America & Caribbean,Lower middle income,2024,75.0,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2015,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2016,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2017,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2018,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2019,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2020,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2021,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2022,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2023,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,2024,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2015,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2016,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2017,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2018,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2019,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2020,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2021,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2022,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2023,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Hungary,HUN,High income: OECD,High income,2024,93.8,1,1,1,1,1,1,1,0,1,1,1,1
+Iceland,ISL,High income: OECD,High income,2015,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Iceland,ISL,High income: OECD,High income,2016,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Iceland,ISL,High income: OECD,High income,2017,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Iceland,ISL,High income: OECD,High income,2018,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Iceland,ISL,High income: OECD,High income,2019,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Iceland,ISL,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Iceland,ISL,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Iceland,ISL,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Iceland,ISL,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Iceland,ISL,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+India,IND,South Asia,Lower middle income,2015,66.3,1,1,1,1,1,1,1,1,0,1,1,1
+India,IND,South Asia,Lower middle income,2016,66.3,1,1,1,1,1,1,1,1,0,1,1,1
+India,IND,South Asia,Lower middle income,2017,66.3,1,1,1,1,1,1,1,1,0,1,1,1
+India,IND,South Asia,Lower middle income,2018,68.8,1,1,1,1,1,1,1,1,0,1,1,1
+India,IND,South Asia,Lower middle income,2019,71.9,1,1,1,1,1,1,1,1,0,1,1,1
+India,IND,South Asia,Lower middle income,2020,71.9,1,1,1,1,1,1,1,1,0,1,1,1
+India,IND,South Asia,Lower middle income,2021,74.4,1,1,1,1,1,1,1,1,0,1,1,1
+India,IND,South Asia,Lower middle income,2022,74.4,1,1,1,1,1,1,1,1,0,1,1,1
+India,IND,South Asia,Lower middle income,2023,74.4,1,1,1,1,1,1,1,1,0,1,1,1
+India,IND,South Asia,Lower middle income,2024,74.4,1,1,1,1,1,1,1,1,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2015,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2016,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2017,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2018,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2019,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2020,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2021,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2022,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2023,70.6,1,1,1,1,1,1,1,1,0,1,1,1
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2024,70.6,1,1,1,1,1,1,1,1,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2015,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2016,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2017,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2018,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2019,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2020,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2021,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2022,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2023,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Lower middle income,2024,31.3,0,0,0,0,0,0,0,0,0,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2015,33.1,0,0,0,0,1,1,0,0,0,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2016,33.1,0,0,0,0,1,1,0,0,0,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2017,45.0,0,0,1,0,1,1,1,1,0,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2018,45.0,0,0,1,0,1,1,1,1,0,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2019,45.0,0,0,1,0,1,1,1,1,0,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2020,45.0,0,0,1,0,1,1,1,1,0,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2021,45.0,0,0,1,0,1,1,1,1,0,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2022,45.0,0,0,1,0,1,1,1,1,0,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2023,48.1,0,0,1,0,1,1,1,1,1,1,1,1
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2024,48.1,0,0,1,0,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2015,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2016,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2017,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2018,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2020,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ireland,IRL,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2015,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2016,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2017,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2018,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2019,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2020,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2021,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2022,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2023,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Israel,ISR,High income: OECD,High income,2024,80.6,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2015,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2016,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2017,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2018,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2020,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2021,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2022,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2023,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Italy,ITA,High income: OECD,High income,2024,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2015,61.9,1,1,1,1,1,0,0,0,0,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2016,68.1,1,1,1,1,1,0,0,0,0,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2017,68.1,1,1,1,1,1,0,0,0,0,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2018,68.1,1,1,1,1,1,0,0,0,0,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2019,68.1,1,1,1,1,1,0,0,0,0,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2020,68.1,1,1,1,1,1,0,0,0,0,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2021,68.1,1,1,1,1,1,0,0,0,0,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2022,68.1,1,1,1,1,1,0,0,0,0,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2023,68.1,1,1,1,1,1,0,0,0,0,1,1,1
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,2024,74.4,1,1,1,1,1,0,1,1,0,1,1,1
+Japan,JPN,High income: OECD,High income,2015,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Japan,JPN,High income: OECD,High income,2016,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Japan,JPN,High income: OECD,High income,2017,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Japan,JPN,High income: OECD,High income,2018,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Japan,JPN,High income: OECD,High income,2019,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Japan,JPN,High income: OECD,High income,2020,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Japan,JPN,High income: OECD,High income,2021,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Japan,JPN,High income: OECD,High income,2022,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Japan,JPN,High income: OECD,High income,2023,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Japan,JPN,High income: OECD,High income,2024,78.8,1,1,1,1,1,1,0,0,0,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2015,31.9,0,0,0,0,0,0,0,0,0,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2016,31.9,0,0,0,0,0,0,0,0,0,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2017,31.9,0,0,0,0,0,0,0,0,0,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2018,31.9,0,0,0,0,0,0,0,0,0,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2019,31.9,0,0,0,0,0,0,0,0,0,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2020,40.6,0,0,0,0,0,0,0,0,0,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2021,46.9,0,0,1,0,0,0,0,0,1,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2022,46.9,0,0,1,0,0,0,0,0,1,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2023,46.9,0,0,1,0,0,0,0,0,1,1,1,1
+Jordan,JOR,Middle East & North Africa,Lower middle income,2024,59.4,0,0,1,0,0,1,1,1,1,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2015,72.5,1,1,1,1,1,1,0,0,0,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2016,72.5,1,1,1,1,1,1,0,0,0,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2017,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2018,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2019,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2020,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2021,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2022,69.4,1,1,1,1,1,1,0,0,0,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2023,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,2024,75.6,1,1,1,1,1,1,0,0,0,1,1,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2015,81.3,1,1,1,1,1,1,1,1,1,1,0,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2016,81.3,1,1,1,1,1,1,1,1,1,1,0,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2017,83.8,1,1,1,1,1,1,1,1,1,1,0,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2018,83.8,1,1,1,1,1,1,1,1,1,1,0,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2019,83.8,1,1,1,1,1,1,1,1,1,1,0,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2020,83.8,1,1,1,1,1,1,1,1,1,1,0,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2021,83.8,1,1,1,1,1,1,1,1,1,1,0,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2022,83.8,1,1,1,1,1,1,1,1,1,1,0,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2023,83.8,1,1,1,1,1,1,1,1,1,1,0,1
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2024,83.8,1,1,1,1,1,1,1,1,1,1,0,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2015,58.8,1,1,1,1,1,1,0,0,0,1,1,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2016,61.3,1,1,1,1,1,1,0,0,0,1,1,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2017,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2018,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2019,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2020,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2021,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2022,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2023,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+Kiribati,KIR,East Asia & Pacific,Lower middle income,2024,76.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2015,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2016,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2017,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2018,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2019,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2020,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2021,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2022,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2023,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+"Korea, Rep.",KOR,High income: OECD,High income,2024,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2015,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2016,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2017,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2018,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2019,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2020,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2021,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2022,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2023,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kosovo,KSV,Europe & Central Asia,Upper middle income,2024,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2015,29.4,0,0,1,1,0,0,0,0,0,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2016,29.4,0,0,1,1,0,0,0,0,0,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2017,29.4,0,0,1,1,0,0,0,0,0,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2018,29.4,0,0,1,1,0,0,0,0,0,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2019,29.4,0,0,1,1,0,0,0,0,0,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2020,26.3,0,0,1,1,0,0,0,0,0,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2021,28.8,0,0,1,1,0,0,0,0,0,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2022,38.1,0,0,1,1,0,1,1,1,0,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2023,38.1,0,0,1,1,0,1,1,1,0,1,1,1
+Kuwait,KWT,Middle East & North Africa,High income,2024,38.1,0,0,1,1,0,1,1,1,0,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2015,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2016,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2017,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2018,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2019,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2020,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2021,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2022,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2023,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,2024,76.9,1,1,1,1,1,1,1,1,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2015,85.0,1,1,1,1,1,1,1,0,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2016,85.0,1,1,1,1,1,1,1,0,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2017,85.0,1,1,1,1,1,1,1,0,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2018,85.0,1,1,1,1,1,1,1,0,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2019,85.0,1,1,1,1,1,1,1,0,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2020,85.6,1,1,1,1,1,1,1,0,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2021,85.6,1,1,1,1,1,1,1,0,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2022,85.6,1,1,1,1,1,1,1,0,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2023,85.6,1,1,1,1,1,1,1,0,1,1,1,1
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,2024,85.6,1,1,1,1,1,1,1,0,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2015,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2016,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2017,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2018,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2019,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Latvia,LVA,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2015,50.0,1,1,1,1,1,1,0,0,0,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2016,52.5,1,1,1,1,1,1,0,0,0,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2017,52.5,1,1,1,1,1,1,0,0,0,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2018,52.5,1,1,1,1,1,1,0,0,0,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2019,52.5,1,1,1,1,1,1,0,0,0,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2020,52.5,1,1,1,1,1,1,0,0,0,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2021,52.5,1,1,1,1,1,1,0,0,0,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2022,58.8,1,1,1,1,1,1,1,1,0,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2023,58.8,1,1,1,1,1,1,1,1,0,1,1,1
+Lebanon,LBN,Middle East & North Africa,Lower middle income,2024,58.8,1,1,1,1,1,1,1,1,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2015,78.1,1,1,1,1,1,1,1,0,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2016,78.1,1,1,1,1,1,1,1,0,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2017,78.1,1,1,1,1,1,1,1,0,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2018,78.1,1,1,1,1,1,1,1,0,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2019,78.1,1,1,1,1,1,1,1,0,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2020,78.1,1,1,1,1,1,1,1,0,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2021,78.1,1,1,1,1,1,1,1,0,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2022,78.1,1,1,1,1,1,1,1,0,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2023,78.1,1,1,1,1,1,1,1,0,0,1,1,1
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,2024,80.6,1,1,1,1,1,1,1,0,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2015,63.8,1,1,1,1,1,0,0,0,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2016,63.8,1,1,1,1,1,0,0,0,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2017,78.8,1,1,1,1,1,1,1,1,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2018,78.8,1,1,1,1,1,1,1,1,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2019,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2020,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2021,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2022,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2023,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Liberia,LBR,Sub-Saharan Africa,Low income,2024,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2015,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2016,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2017,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2018,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2019,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2020,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2021,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2022,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2023,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Libya,LBY,Middle East & North Africa,Upper middle income,2024,50.0,1,1,0,1,1,1,0,0,0,1,1,1
+Lithuania,LTU,High income: OECD,High income,2015,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Lithuania,LTU,High income: OECD,High income,2016,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Lithuania,LTU,High income: OECD,High income,2017,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Lithuania,LTU,High income: OECD,High income,2018,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Lithuania,LTU,High income: OECD,High income,2019,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Lithuania,LTU,High income: OECD,High income,2020,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Lithuania,LTU,High income: OECD,High income,2021,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Lithuania,LTU,High income: OECD,High income,2022,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Lithuania,LTU,High income: OECD,High income,2023,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Lithuania,LTU,High income: OECD,High income,2024,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2015,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2016,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2017,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2018,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2019,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Luxembourg,LUX,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2015,66.9,1,1,0,1,1,1,1,1,0,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2016,66.9,1,1,0,1,1,1,1,1,0,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2017,66.9,1,1,0,1,1,1,1,1,0,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2018,66.9,1,1,0,1,1,1,1,1,0,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2019,66.9,1,1,0,1,1,1,1,1,0,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2020,66.9,1,1,0,1,1,1,1,1,0,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2021,69.4,1,1,0,1,1,1,1,1,0,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2022,69.4,1,1,0,1,1,1,1,1,0,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2023,69.4,1,1,0,1,1,1,1,1,0,1,1,1
+Madagascar,MDG,Sub-Saharan Africa,Low income,2024,69.4,1,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2015,75.0,0,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2016,77.5,0,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2017,77.5,0,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2018,77.5,0,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2019,77.5,0,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2020,77.5,0,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2021,77.5,0,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2022,77.5,0,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2023,80.0,0,1,0,1,1,1,1,1,0,1,1,1
+Malawi,MWI,Sub-Saharan Africa,Low income,2024,80.0,0,1,0,1,1,1,1,1,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2015,50.0,0,0,1,1,1,0,1,0,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2016,50.0,0,0,1,1,1,0,1,0,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2017,50.0,0,0,1,1,1,0,1,0,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2018,50.0,0,0,1,1,1,0,1,0,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2019,50.0,0,0,1,1,1,0,1,0,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2020,50.0,0,0,1,1,1,0,1,0,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2021,50.0,0,0,1,1,1,0,1,0,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2022,50.0,0,0,1,1,1,0,1,0,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2023,50.0,0,0,1,1,1,0,1,0,0,1,1,1
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2024,60.6,0,0,1,1,1,0,1,0,0,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2015,70.6,1,1,1,1,1,1,1,1,0,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2016,70.6,1,1,1,1,1,1,1,1,0,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2017,70.6,1,1,1,1,1,1,1,1,0,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2018,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2019,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2020,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2021,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2022,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2023,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Maldives,MDV,South Asia,Upper middle income,2024,73.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2015,54.4,0,1,0,1,1,0,0,0,0,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2016,54.4,0,1,0,1,1,0,0,0,0,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2017,54.4,0,1,0,1,1,0,0,0,0,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2018,54.4,0,1,0,1,1,0,0,0,0,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2019,63.8,0,1,1,1,1,1,0,0,0,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2020,63.8,0,1,1,1,1,1,0,0,0,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2021,63.8,0,1,1,1,1,1,0,0,0,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2022,63.8,0,1,1,1,1,1,0,0,0,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2023,63.8,0,1,1,1,1,1,0,0,0,1,1,1
+Mali,MLI,Sub-Saharan Africa,Low income,2024,63.8,0,1,1,1,1,1,0,0,0,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2015,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2016,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2017,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2018,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2019,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2020,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2021,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2022,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2023,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Malta,MLT,Middle East & North Africa,High income,2024,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2015,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2016,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2017,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2018,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2019,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2020,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2021,65.6,1,1,1,1,1,1,0,0,1,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2022,65.6,1,1,1,1,1,1,0,0,1,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2023,65.6,1,1,1,1,1,1,0,0,1,1,1,1
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,2024,65.6,1,1,1,1,1,1,0,0,1,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2015,41.9,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2016,48.1,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2017,48.1,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2018,48.1,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2019,48.1,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2020,48.1,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2021,48.1,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2022,48.1,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2023,48.1,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,2024,48.1,1,1,1,1,0,1,0,0,0,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2015,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2016,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2017,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2018,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2019,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2020,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2021,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2022,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2023,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,2024,89.4,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2015,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2016,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2017,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2018,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2019,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2020,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2021,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2022,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2023,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2024,88.8,1,1,1,1,1,1,1,1,1,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2015,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2016,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2017,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2018,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2019,61.3,1,1,1,1,1,0,0,0,0,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2020,61.3,1,1,1,1,1,0,0,0,0,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2021,61.3,1,1,1,1,1,0,0,0,0,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2022,61.3,1,1,1,1,1,0,0,0,0,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2023,61.3,1,1,1,1,1,0,0,0,0,1,1,1
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,2024,61.3,1,1,1,1,1,0,0,0,0,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2015,81.9,1,1,1,1,1,1,1,0,1,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2016,81.9,1,1,1,1,1,1,1,0,1,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2017,81.9,1,1,1,1,1,1,1,0,1,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2018,84.4,1,1,1,1,1,1,1,0,1,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2019,87.5,1,1,1,1,1,1,1,0,1,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2020,87.5,1,1,1,1,1,1,1,0,1,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2021,87.5,1,1,1,1,1,1,1,0,1,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2022,87.5,1,1,1,1,1,1,1,0,1,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2023,87.5,1,1,1,1,1,1,1,0,1,1,1,1
+Moldova,MDA,Europe & Central Asia,Upper middle income,2024,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2015,80.0,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2016,80.0,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2017,80.0,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2018,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2019,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2020,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2021,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2022,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2023,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Mongolia,MNG,East Asia & Pacific,Lower middle income,2024,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2015,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2016,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2017,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2018,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2019,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2020,78.8,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2021,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2022,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2023,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Montenegro,MNE,Europe & Central Asia,Upper middle income,2024,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2015,73.1,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2016,73.1,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2017,73.1,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2018,73.1,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2019,75.6,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2020,75.6,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2021,75.6,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2022,75.6,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2023,75.6,1,1,1,1,1,1,1,1,1,1,1,1
+Morocco,MAR,Middle East & North Africa,Lower middle income,2024,75.6,1,1,1,1,1,1,1,1,1,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2015,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2016,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2017,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2018,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2019,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2020,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2021,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2022,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2023,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2024,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2015,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2016,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2017,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2018,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2019,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2020,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2021,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2022,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2023,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2024,58.8,1,1,0,1,1,0,0,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2015,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2016,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2017,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2018,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2019,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2020,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2021,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2022,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2023,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,2024,80.0,1,1,0,1,1,1,1,0,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2015,49.4,1,1,1,1,1,0,0,0,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2016,55.6,1,1,1,1,1,0,1,1,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2017,55.6,1,1,1,1,1,0,1,1,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2018,55.6,1,1,1,1,1,0,1,1,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2019,71.9,0,1,1,1,1,1,1,1,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2020,80.6,0,1,1,1,1,1,1,1,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2021,80.6,0,1,1,1,1,1,1,1,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2022,80.6,0,1,1,1,1,1,1,1,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2023,80.6,0,1,1,1,1,1,1,1,0,1,1,1
+Nepal,NPL,South Asia,Lower middle income,2024,80.6,0,1,1,1,1,1,1,1,0,1,1,1
+Netherlands,NLD,High income: OECD,High income,2015,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Netherlands,NLD,High income: OECD,High income,2016,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Netherlands,NLD,High income: OECD,High income,2017,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Netherlands,NLD,High income: OECD,High income,2018,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Netherlands,NLD,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Netherlands,NLD,High income: OECD,High income,2020,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Netherlands,NLD,High income: OECD,High income,2021,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Netherlands,NLD,High income: OECD,High income,2022,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Netherlands,NLD,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Netherlands,NLD,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2015,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2016,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2017,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2018,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2019,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2020,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2021,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2022,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2023,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+New Zealand,NZL,High income: OECD,High income,2024,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2015,75.6,0,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2016,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2017,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2018,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2019,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2020,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2021,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2022,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2023,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,2024,86.3,1,1,1,1,1,1,1,1,1,1,1,1
+Niger,NER,Sub-Saharan Africa,Low income,2015,53.8,0,1,1,1,0,1,1,1,0,1,1,0
+Niger,NER,Sub-Saharan Africa,Low income,2016,53.8,0,1,1,1,0,1,1,1,0,1,1,0
+Niger,NER,Sub-Saharan Africa,Low income,2017,53.8,0,1,1,1,0,1,1,1,0,1,1,0
+Niger,NER,Sub-Saharan Africa,Low income,2018,53.8,0,1,1,1,0,1,1,1,0,1,1,0
+Niger,NER,Sub-Saharan Africa,Low income,2019,56.9,0,1,1,1,0,1,1,1,0,1,1,0
+Niger,NER,Sub-Saharan Africa,Low income,2020,56.9,0,1,1,1,0,1,1,1,0,1,1,0
+Niger,NER,Sub-Saharan Africa,Low income,2021,56.9,0,1,1,1,0,1,1,1,0,1,1,0
+Niger,NER,Sub-Saharan Africa,Low income,2022,56.9,0,1,1,1,0,1,1,1,0,1,1,0
+Niger,NER,Sub-Saharan Africa,Low income,2023,53.8,0,1,1,1,0,1,1,1,0,1,1,0
+Niger,NER,Sub-Saharan Africa,Low income,2024,53.8,0,1,1,1,0,1,1,1,0,1,1,0
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2015,63.1,0,1,0,1,1,0,1,1,0,1,1,1
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2016,63.1,0,1,0,1,1,0,1,1,0,1,1,1
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2017,63.1,0,1,0,1,1,0,1,1,0,1,1,1
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2018,63.1,0,1,0,1,1,0,1,1,0,1,1,1
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2019,63.1,0,1,0,1,1,0,1,1,0,1,1,1
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2020,63.1,0,1,0,1,1,0,1,1,0,1,1,1
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2021,63.1,0,1,0,1,1,0,1,1,0,1,1,1
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2022,66.3,0,1,1,1,1,0,1,1,0,1,1,1
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2023,66.3,0,1,1,1,1,0,1,1,0,1,1,1
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2024,66.3,0,1,1,1,1,0,1,1,0,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2015,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2016,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2017,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2018,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2019,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2020,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2021,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2022,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2023,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,2024,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Norway,NOR,High income: OECD,High income,2015,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Norway,NOR,High income: OECD,High income,2016,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Norway,NOR,High income: OECD,High income,2017,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Norway,NOR,High income: OECD,High income,2018,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Norway,NOR,High income: OECD,High income,2019,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Norway,NOR,High income: OECD,High income,2020,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Norway,NOR,High income: OECD,High income,2021,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Norway,NOR,High income: OECD,High income,2022,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Norway,NOR,High income: OECD,High income,2023,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Norway,NOR,High income: OECD,High income,2024,96.9,1,1,1,1,1,1,1,1,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2015,32.5,0,0,0,0,1,0,1,0,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2016,32.5,0,0,0,0,1,0,1,0,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2017,32.5,0,0,0,0,1,0,1,0,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2018,32.5,0,0,0,0,1,0,1,0,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2019,32.5,0,0,0,0,1,0,1,0,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2020,32.5,0,0,0,0,1,0,1,0,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2021,32.5,0,0,0,0,1,0,1,0,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2022,35.6,0,0,1,0,1,0,1,0,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2023,35.6,0,0,1,0,1,0,1,0,0,1,1,1
+Oman,OMN,Middle East & North Africa,High income,2024,46.3,0,0,1,0,1,0,1,0,0,1,1,1
+Pakistan,PAK,South Asia,Lower middle income,2015,46.9,1,1,0,1,1,0,1,1,0,1,0,1
+Pakistan,PAK,South Asia,Lower middle income,2016,46.9,1,1,0,1,1,0,1,1,0,1,0,1
+Pakistan,PAK,South Asia,Lower middle income,2017,46.9,1,1,0,1,1,0,1,1,0,1,0,1
+Pakistan,PAK,South Asia,Lower middle income,2018,50.0,1,1,0,1,1,1,1,1,0,1,0,1
+Pakistan,PAK,South Asia,Lower middle income,2019,52.5,1,1,0,1,1,1,1,1,0,1,0,1
+Pakistan,PAK,South Asia,Lower middle income,2020,52.5,1,1,0,1,1,1,1,1,0,1,0,1
+Pakistan,PAK,South Asia,Lower middle income,2021,55.6,1,1,0,1,1,1,1,1,0,1,1,1
+Pakistan,PAK,South Asia,Lower middle income,2022,55.6,1,1,0,1,1,1,1,1,0,1,0,1
+Pakistan,PAK,South Asia,Lower middle income,2023,58.8,1,1,0,1,1,1,1,1,0,1,1,1
+Pakistan,PAK,South Asia,Lower middle income,2024,58.8,1,1,0,1,1,1,1,1,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2015,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2016,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2017,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2018,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2019,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2020,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2021,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2022,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2023,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Palau,PLW,East Asia & Pacific,Upper middle income,2024,56.3,1,1,1,1,1,0,0,0,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2015,76.9,1,1,1,1,1,1,1,1,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2016,76.9,1,1,1,1,1,1,1,1,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2017,76.9,1,1,1,1,1,1,1,1,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2018,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2019,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2020,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2021,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2022,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2023,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Panama,PAN,Latin America & Caribbean,High income,2024,79.4,1,1,1,1,1,1,1,1,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2015,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2016,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2017,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2018,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2019,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2020,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2021,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2022,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2023,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2024,60.0,1,1,0,1,1,1,0,0,0,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2015,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2016,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2017,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2018,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2019,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2020,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2021,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2022,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2023,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,2024,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2015,92.5,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2016,92.5,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2017,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2018,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2019,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2020,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2021,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2022,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2023,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Peru,PER,Latin America & Caribbean,Upper middle income,2024,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2015,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2016,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2017,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2018,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2019,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2020,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2021,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2022,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2023,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Philippines,PHL,East Asia & Pacific,Lower middle income,2024,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2015,84.4,1,1,1,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2016,84.4,1,1,1,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2017,84.4,1,1,1,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2018,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2019,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2020,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2021,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2022,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2023,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Poland,POL,High income: OECD,High income,2024,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2015,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2016,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2017,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2018,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Portugal,PRT,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2015,81.3,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2016,81.3,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2017,81.3,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2018,81.3,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2019,81.3,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2020,81.3,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2021,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2022,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2023,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+Puerto Rico,PRI,Latin America & Caribbean,High income,2024,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2015,29.4,0,0,1,0,0,0,0,0,0,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2016,29.4,0,0,1,0,0,0,0,0,0,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2017,29.4,0,0,1,0,0,0,0,0,0,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2018,29.4,0,0,1,0,0,0,0,0,0,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2019,29.4,0,0,1,0,0,0,0,0,0,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2020,29.4,0,0,1,0,0,0,0,0,0,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2021,29.4,0,0,1,0,0,0,0,0,0,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2022,29.4,0,0,1,0,0,0,0,0,0,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2023,29.4,0,0,1,0,0,0,0,0,0,1,1,1
+Qatar,QAT,Middle East & North Africa,High income,2024,35.6,0,0,1,0,0,0,0,0,0,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2015,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2016,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2017,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2018,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2019,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2020,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2021,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2022,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2023,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Romania,ROM,Europe & Central Asia,High income,2024,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2015,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2016,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2017,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2018,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2019,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2020,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2021,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2022,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2023,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,2024,73.1,1,1,1,1,1,1,0,0,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2015,72.5,0,1,1,1,1,1,1,1,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2016,72.5,0,1,1,1,1,1,1,1,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2017,72.5,0,1,1,1,1,1,1,1,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2018,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2019,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2020,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2021,83.8,1,1,1,1,1,1,1,1,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2022,83.8,1,1,1,1,1,1,1,1,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2023,83.8,1,1,1,1,1,1,1,1,0,1,1,1
+Rwanda,RWA,Sub-Saharan Africa,Low income,2024,91.9,1,1,1,1,1,1,1,1,1,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2015,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2016,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2017,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2018,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2019,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2020,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2021,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2022,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2023,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+Samoa,WSM,East Asia & Pacific,Lower middle income,2024,75.0,1,1,0,1,1,1,1,1,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2015,80.0,1,1,1,1,1,1,0,0,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2016,80.0,1,1,1,1,1,1,0,0,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2017,80.0,1,1,1,1,1,1,0,0,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2018,80.0,1,1,1,1,1,1,0,0,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2019,80.0,1,1,1,1,1,1,0,0,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2020,80.0,1,1,1,1,1,1,0,0,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2021,80.0,1,1,1,1,1,1,0,0,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2022,80.0,1,1,1,1,1,1,0,0,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2023,85.0,1,1,1,1,1,1,0,0,0,1,1,1
+San Marino,SMR,Europe & Central Asia,High income,2024,85.0,1,1,1,1,1,1,0,0,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2015,62.5,1,1,1,1,1,1,1,1,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2016,68.8,1,1,1,1,1,1,1,1,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2017,68.8,1,1,1,1,1,1,1,1,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2018,68.8,1,1,1,1,1,1,1,1,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2019,68.8,1,1,1,1,1,1,1,1,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2020,83.1,1,1,1,1,1,1,1,1,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2021,83.1,1,1,1,1,1,1,1,1,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2022,83.1,1,1,1,1,1,1,1,1,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2023,83.1,1,1,1,1,1,1,1,1,0,1,1,1
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,2024,83.1,1,1,1,1,1,1,1,1,0,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2015,31.9,0,0,0,0,1,0,0,0,0,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2016,31.9,0,0,0,0,1,0,0,0,0,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2017,31.9,0,0,0,0,1,0,0,0,0,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2018,31.9,0,0,0,0,1,0,0,0,0,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2019,38.1,0,0,0,0,1,0,1,1,0,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2020,70.6,1,1,1,1,1,1,1,1,1,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2021,80.0,1,1,1,1,1,1,1,1,1,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2022,80.0,1,1,1,1,1,1,1,1,1,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2023,71.3,0,1,1,0,1,1,1,1,1,1,1,1
+Saudi Arabia,SAU,Middle East & North Africa,High income,2024,71.3,0,1,1,0,1,1,1,1,1,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2015,63.8,0,1,1,1,1,0,1,1,0,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2016,63.8,0,1,1,1,1,0,1,1,0,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2017,63.8,0,1,1,1,1,0,1,1,0,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2018,63.8,0,1,1,1,1,0,1,1,0,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2019,63.8,0,1,1,1,1,0,1,1,0,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2020,63.8,0,1,1,1,1,0,1,1,0,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2021,66.9,0,1,1,1,1,1,1,1,0,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2022,66.9,0,1,1,1,1,1,1,1,0,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2023,72.5,0,1,1,1,1,1,1,1,0,1,1,1
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2024,72.5,0,1,1,1,1,1,1,1,0,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2015,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2016,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2017,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2018,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2019,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2020,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2021,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2022,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2023,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Serbia,SRB,Europe & Central Asia,Upper middle income,2024,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2015,73.8,1,1,0,1,1,1,0,0,0,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2016,73.8,1,1,0,1,1,1,0,0,0,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2017,76.3,1,1,0,1,1,1,0,0,0,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2018,76.3,1,1,0,1,1,1,0,0,0,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2019,76.3,1,1,0,1,1,1,0,0,0,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2020,76.3,1,1,0,1,1,1,0,0,0,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2021,76.3,1,1,0,1,1,1,0,0,0,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2022,76.3,1,1,0,1,1,1,0,0,0,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2023,76.3,1,1,0,1,1,1,0,0,0,1,1,1
+Seychelles,SYC,Sub-Saharan Africa,High income,2024,76.3,1,1,0,1,1,1,0,0,0,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2015,63.1,1,1,1,1,1,0,0,0,0,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2016,63.1,1,1,1,1,1,0,0,0,0,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2017,63.1,1,1,1,1,1,0,0,0,0,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2018,63.1,1,1,1,1,1,0,0,0,0,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2019,63.1,1,1,1,1,1,0,0,0,0,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2020,63.1,1,1,1,1,1,0,0,0,0,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2021,69.4,1,1,1,1,1,0,1,1,0,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2022,72.5,1,1,1,1,1,0,1,1,1,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2023,72.5,1,1,1,1,1,0,1,1,1,1,1,1
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2024,92.5,1,1,1,1,1,1,1,1,1,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2015,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2016,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2017,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2018,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2019,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2020,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2021,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2022,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2023,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Singapore,SGP,East Asia & Pacific,High income,2024,82.5,1,1,1,1,1,0,1,1,0,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2015,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2016,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2017,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2018,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2019,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2020,94.4,1,1,1,1,1,1,1,1,1,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2021,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2022,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2023,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Slovak Republic,SVK,High income: OECD,High income,2024,87.5,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2015,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2016,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2017,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2018,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2019,90.6,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2020,93.8,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2021,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2022,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2023,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Slovenia,SVN,High income: OECD,High income,2024,96.9,1,1,1,1,1,1,1,1,1,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2015,54.4,1,1,0,1,1,0,0,0,0,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2016,56.9,1,1,0,1,1,0,0,0,0,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2017,56.9,1,1,0,1,1,0,0,0,0,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2018,56.9,1,1,0,1,1,0,0,0,0,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2019,56.9,1,1,0,1,1,0,0,0,0,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2020,56.9,1,1,0,1,1,0,0,0,0,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2021,56.9,1,1,0,1,1,0,0,0,0,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2022,56.9,1,1,0,1,1,0,0,0,0,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2023,56.9,1,1,0,1,1,0,0,0,0,1,1,1
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,2024,56.9,1,1,0,1,1,0,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2015,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2016,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2017,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2018,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2019,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2020,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2021,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2022,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2023,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+Somalia,SOM,Sub-Saharan Africa,Low income,2024,46.9,0,1,1,1,1,1,0,0,0,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2015,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2016,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2017,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2018,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2019,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2020,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2021,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2022,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2023,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2024,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2015,49.4,1,1,1,1,1,0,1,1,0,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2016,49.4,1,1,1,1,1,0,1,1,0,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2017,49.4,1,1,1,1,1,0,1,1,0,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2018,49.4,1,1,1,1,1,0,1,1,0,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2019,67.5,1,1,1,1,1,1,1,1,0,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2020,67.5,1,1,1,1,1,1,1,1,0,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2021,67.5,1,1,1,1,1,1,1,1,0,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2022,67.5,1,1,1,1,1,1,1,1,0,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2023,67.5,1,1,1,1,1,1,1,1,0,1,1,1
+South Sudan,SSD,Sub-Saharan Africa,Low income,2024,67.5,1,1,1,1,1,1,1,1,0,1,1,1
+Spain,ESP,High income: OECD,High income,2015,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Spain,ESP,High income: OECD,High income,2016,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Spain,ESP,High income: OECD,High income,2017,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Spain,ESP,High income: OECD,High income,2018,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Spain,ESP,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Spain,ESP,High income: OECD,High income,2020,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Spain,ESP,High income: OECD,High income,2021,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Spain,ESP,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Spain,ESP,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Spain,ESP,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2015,63.1,1,1,1,1,1,0,1,1,0,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2016,63.1,1,1,1,1,1,0,1,1,0,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2017,63.1,1,1,1,1,1,0,1,1,0,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2018,63.1,1,1,1,1,1,0,1,1,0,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2019,63.1,1,1,1,1,1,0,1,1,0,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2020,63.1,1,1,1,1,1,0,1,1,0,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2021,63.1,1,1,1,1,1,0,1,1,0,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2022,63.1,1,1,1,1,1,0,1,1,0,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2023,65.6,1,1,1,1,1,0,1,1,0,1,1,1
+Sri Lanka,LKA,South Asia,Lower middle income,2024,65.6,1,1,1,1,1,0,1,1,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2015,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2016,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2017,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2018,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2019,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2020,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2021,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2022,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2023,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,2024,71.3,1,1,1,1,1,0,0,0,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2015,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2016,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2017,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2018,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2019,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2020,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2021,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2022,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2023,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,2024,83.8,1,1,0,1,1,1,1,1,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2015,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2016,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2017,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2018,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2019,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2020,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2021,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2022,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2023,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,2024,68.1,1,1,0,1,1,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2015,29.4,0,0,0,0,0,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2016,29.4,0,0,0,0,0,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2017,29.4,0,0,0,0,0,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2018,29.4,0,0,0,0,0,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2019,29.4,0,0,0,0,0,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2020,29.4,0,0,0,0,0,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2021,32.5,0,0,1,0,0,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2022,32.5,0,0,1,0,0,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2023,32.5,0,0,1,0,0,0,0,0,0,1,1,1
+Sudan,SDN,Sub-Saharan Africa,Low income,2024,32.5,0,0,1,0,0,0,0,0,0,1,1,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2015,63.1,1,1,0,1,1,0,0,0,0,1,0,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2016,60.0,1,1,0,1,1,0,0,0,0,1,0,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2017,60.0,1,1,0,1,1,0,0,0,0,1,0,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2018,60.0,1,1,0,1,1,0,0,0,0,1,0,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2019,60.0,1,1,0,1,1,0,0,0,0,1,0,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2020,63.1,1,1,0,1,1,1,0,0,0,1,0,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2021,70.6,1,1,0,1,1,1,0,0,0,1,0,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2022,70.6,1,1,0,1,1,1,0,0,0,1,0,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2023,70.6,1,1,0,1,1,1,0,0,0,1,0,1
+Suriname,SUR,Latin America & Caribbean,Upper middle income,2024,76.9,1,1,0,1,1,1,1,1,0,1,0,1
+Sweden,SWE,High income: OECD,High income,2015,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sweden,SWE,High income: OECD,High income,2016,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sweden,SWE,High income: OECD,High income,2017,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sweden,SWE,High income: OECD,High income,2018,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sweden,SWE,High income: OECD,High income,2019,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sweden,SWE,High income: OECD,High income,2020,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sweden,SWE,High income: OECD,High income,2021,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sweden,SWE,High income: OECD,High income,2022,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sweden,SWE,High income: OECD,High income,2023,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Sweden,SWE,High income: OECD,High income,2024,100.0,1,1,1,1,1,1,1,1,1,1,1,1
+Switzerland,CHE,High income: OECD,High income,2015,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Switzerland,CHE,High income: OECD,High income,2016,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Switzerland,CHE,High income: OECD,High income,2017,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Switzerland,CHE,High income: OECD,High income,2018,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Switzerland,CHE,High income: OECD,High income,2019,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Switzerland,CHE,High income: OECD,High income,2020,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Switzerland,CHE,High income: OECD,High income,2021,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Switzerland,CHE,High income: OECD,High income,2022,88.1,1,1,1,1,1,1,1,1,0,1,1,1
+Switzerland,CHE,High income: OECD,High income,2023,88.1,1,1,1,1,1,1,1,1,0,1,1,1
+Switzerland,CHE,High income: OECD,High income,2024,88.1,1,1,1,1,1,1,1,1,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2015,34.4,0,0,1,0,0,1,0,0,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2016,34.4,0,0,1,0,0,1,0,0,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2017,34.4,0,0,1,0,0,1,0,0,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2018,34.4,0,0,1,0,0,1,0,0,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2019,34.4,0,0,1,0,0,1,0,0,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2020,40.0,0,1,1,0,0,1,0,0,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2021,40.0,0,1,1,0,0,1,0,0,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2022,40.0,0,1,1,0,0,1,0,0,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2023,40.0,0,1,1,0,0,1,0,0,0,1,1,1
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,2024,40.0,0,1,1,0,0,1,0,0,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2015,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2016,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2017,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2018,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2019,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2020,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2021,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2022,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2023,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+"Taiwan, China",TWN,East Asia & Pacific,High income,2024,91.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2015,75.6,1,1,1,1,1,1,0,0,1,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2016,75.6,1,1,1,1,1,1,0,0,1,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2017,75.6,1,1,1,1,1,1,0,0,1,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2018,78.8,1,1,1,1,1,1,0,0,1,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2019,78.8,1,1,1,1,1,1,0,0,1,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2020,78.8,1,1,1,1,1,1,0,0,1,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2021,78.8,1,1,1,1,1,1,0,0,1,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2022,78.8,1,1,1,1,1,1,0,0,1,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2023,78.8,1,1,1,1,1,1,0,0,1,1,1,1
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2024,78.8,1,1,1,1,1,1,0,0,1,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2015,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2016,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2017,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2018,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2019,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2020,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2021,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2022,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2023,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2024,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2015,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2016,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2017,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2018,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2019,75.0,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2020,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2021,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2022,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2023,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Thailand,THA,East Asia & Pacific,Upper middle income,2024,78.1,1,1,1,1,1,1,1,1,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2015,80.6,1,1,1,1,1,1,1,0,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2016,80.6,1,1,1,1,1,1,1,0,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2017,80.6,1,1,1,1,1,1,1,0,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2018,80.6,1,1,1,1,1,1,1,0,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2019,86.3,1,1,1,1,1,1,1,0,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2020,86.3,1,1,1,1,1,1,1,0,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2021,86.3,1,1,1,1,1,1,1,0,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2022,86.3,1,1,1,1,1,1,1,0,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2023,86.3,1,1,1,1,1,1,1,0,0,1,1,1
+Timor-Leste,TMP,East Asia & Pacific,Lower middle income,2024,86.3,1,1,1,1,1,1,1,0,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2015,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2016,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2017,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2018,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2019,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2020,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2021,84.4,1,1,1,1,1,1,1,1,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2022,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2023,81.9,1,1,1,1,1,1,1,1,0,1,1,1
+Togo,TGO,Sub-Saharan Africa,Low income,2024,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2015,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2016,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2017,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2018,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2019,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2020,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2021,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2022,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2023,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Tonga,TON,East Asia & Pacific,Upper middle income,2024,58.8,1,1,1,1,1,0,0,0,0,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2015,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2016,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2017,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2018,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2019,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2020,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2021,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2022,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2023,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,2024,75.0,1,1,0,1,1,1,0,0,1,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2015,55.6,1,1,1,1,1,0,0,0,0,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2016,55.6,1,1,1,1,1,0,0,0,0,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2017,55.6,1,1,1,1,1,0,0,0,0,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2018,55.6,1,1,1,1,1,0,0,0,0,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2019,64.4,1,1,1,1,1,0,1,1,0,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2020,64.4,1,1,1,1,1,0,1,1,0,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2021,64.4,1,1,1,1,1,0,1,1,0,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2022,64.4,1,1,1,1,1,0,1,1,0,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2023,64.4,1,1,1,1,1,0,1,1,0,1,1,1
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2024,64.4,1,1,1,1,1,0,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2015,80.0,1,1,1,1,1,1,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2016,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2017,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2018,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2019,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2020,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2021,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2022,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2023,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Türkiye,TUR,Europe & Central Asia,Upper middle income,2024,82.5,1,1,1,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2015,70.0,0,1,0,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2016,70.0,0,1,0,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2017,70.0,0,1,0,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2018,70.0,0,1,0,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2019,70.0,0,1,0,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2020,73.1,0,1,1,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2021,73.1,0,1,1,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2022,73.1,0,1,1,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2023,81.3,1,1,1,1,1,1,1,1,0,1,1,1
+Uganda,UGA,Sub-Saharan Africa,Low income,2024,83.8,1,1,1,1,1,1,1,1,0,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2015,76.3,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2016,76.3,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2017,76.3,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2018,76.3,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2019,79.4,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2020,79.4,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2021,79.4,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2022,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2023,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Ukraine,UKR,Europe & Central Asia,Lower middle income,2024,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2015,26.9,0,0,0,0,0,0,0,0,0,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2016,26.9,0,0,0,0,0,0,0,0,0,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2017,26.9,0,0,0,0,0,0,0,0,0,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2018,26.9,0,0,0,0,0,0,0,0,0,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2019,30.0,0,0,1,0,0,0,0,0,0,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2020,59.4,0,0,1,0,0,1,1,1,1,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2021,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2022,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2023,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Arab Emirates,ARE,Middle East & North Africa,High income,2024,82.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2015,95.0,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2016,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2017,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2018,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2019,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2020,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2021,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2022,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2023,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+United Kingdom,GBR,High income: OECD,High income,2024,97.5,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2015,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2016,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2017,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2018,83.8,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2019,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2020,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2021,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2022,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2023,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,High income: OECD,High income,2024,91.3,1,1,1,1,1,1,1,1,1,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2015,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2016,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2017,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2018,85.6,1,1,1,1,1,1,1,1,0,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2019,88.8,1,1,1,1,1,1,1,1,0,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2020,88.8,1,1,1,1,1,1,1,1,0,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2021,88.8,1,1,1,1,1,1,1,1,0,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2022,88.8,1,1,1,1,1,1,1,1,0,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2023,88.8,1,1,1,1,1,1,1,1,0,1,1,1
+Uruguay,URY,Latin America & Caribbean,High income,2024,88.8,1,1,1,1,1,1,1,1,0,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2015,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2016,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2017,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2018,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2019,64.4,1,1,1,1,1,1,0,0,0,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2020,67.5,1,1,1,1,1,1,0,0,0,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2021,70.6,1,1,1,1,1,1,0,0,1,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2022,70.6,1,1,1,1,1,1,0,0,1,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2023,70.6,1,1,1,1,1,1,0,0,1,1,1,1
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2024,82.5,1,1,1,1,1,1,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2015,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2016,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2017,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2018,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2019,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2020,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2021,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2022,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2023,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,2024,55.6,0,1,1,1,1,0,0,0,1,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2015,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2016,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2017,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2018,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2019,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2020,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2021,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2022,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2023,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+"Venezuela, RB",VEN,Latin America & Caribbean,Not classified,2024,85.0,1,1,1,1,1,1,1,1,0,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2015,76.3,1,1,1,1,1,1,1,1,1,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2016,76.3,1,1,1,1,1,1,1,1,1,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2017,81.9,1,1,1,1,1,1,1,1,1,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2018,81.9,1,1,1,1,1,1,1,1,1,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2019,81.9,1,1,1,1,1,1,1,1,1,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2020,81.9,1,1,1,1,1,1,1,1,1,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2021,85.0,1,1,1,1,1,1,1,1,1,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2022,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2023,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,2024,88.1,1,1,1,1,1,1,1,1,1,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2015,26.3,0,0,1,0,0,1,0,0,0,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2016,26.3,0,0,1,0,0,1,0,0,0,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2017,26.3,0,0,1,0,0,1,0,0,0,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2018,38.1,0,0,1,0,0,1,0,0,0,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2019,38.1,0,0,1,0,0,1,0,0,0,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2020,26.3,0,0,1,0,0,1,0,0,0,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2021,26.3,0,0,1,0,0,1,0,0,0,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2022,26.3,0,0,1,0,0,1,0,0,0,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2023,26.3,0,0,1,0,0,1,0,0,0,1,1,1
+West Bank and Gaza,WBG,Middle East & North Africa,Upper middle income,2024,26.3,0,0,1,0,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2015,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2016,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2017,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2018,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2019,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2020,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2021,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2022,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2023,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,2024,26.9,0,0,0,1,0,1,0,0,0,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2015,63.1,0,1,0,1,1,1,0,0,0,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2016,63.1,0,1,0,1,1,1,0,0,0,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2017,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2018,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2019,78.8,1,1,0,1,1,1,1,1,1,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2020,81.3,1,1,0,1,1,1,1,1,1,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2021,81.3,1,1,0,1,1,1,1,1,1,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2022,81.3,1,1,0,1,1,1,1,1,1,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2023,81.3,1,1,0,1,1,1,1,1,1,1,1,1
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2024,81.3,1,1,0,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2015,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2016,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2017,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2018,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2019,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2020,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2021,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2022,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2023,86.9,1,1,1,1,1,1,1,1,1,1,1,1
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,2024,86.9,1,1,1,1,1,1,1,1,1,1,1,1
