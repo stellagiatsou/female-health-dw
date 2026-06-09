@@ -1,5 +1,4 @@
-SELECT 
- 'Primary Completion' AS education_type,
+SELECT 'Primary Completion' AS education_type,
 	CASE 
         WHEN ffh.gender_inequality_index <= 0.2 THEN 'High equality' 
         WHEN ffh.gender_inequality_index <= 0.4 THEN 'Mid equality'
@@ -12,14 +11,14 @@ from fact_female_health ffh
 join dim_education de 
 	on de.education_id = ffh.education_id 
 where ffh.gender_inequality_index is not null AND ffh.gender_inequality_index <>0 and ffh.education_id=1
+GROUP BY
 	CASE 
         WHEN ffh.gender_inequality_index <= 0.2 THEN 'High equality'
         WHEN ffh.gender_inequality_index <= 0.4 THEN 'Mid equality'
         ELSE 'Low equality'
     END
 union ALL
-SELECT 
-'Secondary Enrollment' AS education_type,
+SELECT 'Secondary Enrollment' AS education_type,
 	CASE 
         WHEN ffh.gender_inequality_index <= 0.2 THEN 'High equality'
         WHEN ffh.gender_inequality_index <= 0.4 THEN 'Mid equality'

@@ -36,5 +36,5 @@ group by
         ELSE 'Low secondary enrollment rate'
     end
 order by 
-education_type,
+education_group,
 avg_female_life_expectancy DESC;
