@@ -1,8 +1,8 @@
-SELECT
-	ffh.country_name,
-	ffh.country_id,
-	AVG(ffh.female_life_expectancy ) as avg_female_life_expectancy
+SELECT 
+	dc.income_group, 
+	AVG(ffh.female_life_expectancy) AS "Average female life expectancy",
+	AVG(ffh.gender_inequality_index) as "Average gender inequality index"
 from fact_female_health ffh
-group by ffh.country_name, ffh.country_id 
-order by avg_female_life_expectancy desc
-limit 30;
+join dim_country dc 
+	on dc.country_id = ffh.country_id 
+group by dc.income_group;
