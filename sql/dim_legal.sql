@@ -25,7 +25,37 @@ CREATE TABLE dim_legal (
     PRIMARY KEY (country_id, year)
 );
 
+--Create Legal_id primary key
 
+--add column
+ALTER TABLE dim_legal
+ADD COLUMN legal_id INTEGER;
+
+-- create sequence
+CREATE SEQUENCE dim_legal_seq;
+
+-- update values
+UPDATE dim_legal
+SET legal_id = nextval('dim_legal_seq');
+
+--drop primay key (country_id, year_id)
+ALTER TABLE dim_legal DROP CONSTRAINT dim_legal_pkey;
+
+--set default
+ALTER TABLE dim_legal
+ALTER COLUMN legal_id SET DEFAULT nextval('dim_legal_seq');
+
+--set primary key
+ALTER TABLE dim_legal -- χρησιμοποιείται για την τροποποίηση της δομής ενός ήδη υπάρχοντος πίνακα, χωρίς να χρειάζεται να τον διαγράψετε και να τον ξαναδημιουργήσετε.
+ADD CONSTRAINT pk_dim_legal PRIMARY KEY (legal_id);
+
+--check primary key
+SELECT conname, pg_get_constraintdef(c.oid)
+FROM pg_constraint c
+JOIN pg_class t ON c.conrelid = t.oid
+WHERE t.relname = 'dim_legal';
+
+--Insert values
 INSERT INTO dim_legal
 SELECT
     country_code,
