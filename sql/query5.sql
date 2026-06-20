@@ -7,7 +7,7 @@ SELECT
     END AS education_group,
 	AVG(ffh.female_life_expectancy) AS avg_female_life_expectancy
 from fact_female_health ffh
-where ffh.education_rate is not null and ffh.education_rate <>0 and ffh.education_id=1 --Primary completion
+where ffh.education_rate is not null and ffh.education_rate <>0 and ffh.education_id=1 
 group by 
 	CASE 
         WHEN ffh.education_rate >= 80 THEN 'High primary completion rate'
@@ -24,7 +24,7 @@ SELECT
     END AS education_group,
 	AVG(ffh.female_life_expectancy) AS avg_female_life_expectancy
 from fact_female_health ffh
-where ffh.education_rate is not null and ffh.education_rate <>0 and ffh.education_id=2 --Secondary enrollment
+where ffh.education_rate is not null and ffh.education_rate <>0 and ffh.education_id=2 
 group by 
 	CASE 
         WHEN ffh.education_rate >= 80 THEN 'High secondary enrollment rate'
