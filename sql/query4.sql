@@ -1,12 +1,26 @@
 SELECT
-    c.income_group,
-    f.year,
-    AVG(f.life_expectancy) AS avg_life_expectancy
-FROM fact_health f
-JOIN dim_country c
-    ON f.country_id = c.country_id
+    income_group,
+    year_id,
+    AVG(life_exp) AS avg_female_life_expectancy
+FROM (
+    SELECT
+        ffh.country_id,
+        dc.income_group,
+        ffh.year_id,
+        AVG(ffh.female_life_expectancy) AS life_exp
+    FROM fact_female_health ffh
+    JOIN dim_country dc
+        ON dc.country_id = ffh.country_id
+    WHERE ffh.female_life_expectancy IS NOT NULL
+    GROUP BY
+        ffh.country_id,
+        dc.income_group,
+        ffh.year_id
+) t
+where income_group is not null
 GROUP BY
-    c.income_group,
-    f.year
+    income_group,
+    year_id
 ORDER BY
-    f.year, c.income_group;
+    year_id,
+    income_group;

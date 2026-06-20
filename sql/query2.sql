@@ -1,9 +1,15 @@
 SELECT
-	ffh.country_name,
-	ffh.country_id,
-	AVG(ffh.gender_inequality_index) as avg_gender_inequality_index
-from fact_female_health ffh
-where ffh.gender_inequality_index is not null
-group by ffh.country_name, ffh.country_id 
-order by avg_gender_inequality_index asc
-limit 30;
+    country_id,
+    AVG(gii) AS avg_gender_inequality_index
+FROM (
+    SELECT
+        country_id,
+        year_id,
+        AVG(gender_inequality_index) AS gii
+    FROM fact_female_health
+    WHERE gender_inequality_index IS NOT NULL
+    GROUP BY country_id, year_id
+) t
+GROUP BY country_id
+ORDER BY avg_gender_inequality_index ASC
+LIMIT 30;

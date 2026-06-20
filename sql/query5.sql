@@ -7,8 +7,6 @@ SELECT
     END AS education_group,
 	AVG(ffh.female_life_expectancy) AS avg_female_life_expectancy
 from fact_female_health ffh
-join dim_education de 
-	on de.education_id = ffh.education_id 
 where ffh.education_rate is not null and ffh.education_rate <>0 and ffh.education_id=1 --Primary completion
 group by 
 	CASE 
@@ -26,8 +24,6 @@ SELECT
     END AS education_group,
 	AVG(ffh.female_life_expectancy) AS avg_female_life_expectancy
 from fact_female_health ffh
-join dim_education de 
-	on de.education_id = ffh.education_id 
 where ffh.education_rate is not null and ffh.education_rate <>0 and ffh.education_id=2 --Secondary enrollment
 group by 
 	CASE 
